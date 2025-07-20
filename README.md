@@ -102,3 +102,49 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
+
+## Usage
+
+After launching the application, you can::
+
+* **Register/Sign In:** Create an account or log in to access the prompt management features.
+* **Create Prompts:** Add new AI prompts and define their content.
+* **Manage Versions**: Track changes, add notes, and rollback to previous versions.
+* **Organize**: Use tags and categories to keep your prompts organized.
+* **Deploy**: Manage prompt deployments across different environments.
+
+## Learn More
+
+To learn more about Next.js and the technologies used, refer to these resources:
+* [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and API.
+* [Learn Next.js](https://nextjs.org/learn) - An interactive Next.js tutorial.
+* [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+* [MongoDB Documentation](https://docs.mongodb.com/)
+* [NextAuth.js Documentation](https://www.google.com/search?q=https://next-auth.js.org/docs)
+
+
+## Contributing
+
+We welcome contributions to Synaptics AI! If you have ideas for new features, improvements, or bug fixes, please feel free to:
+
+1.  Fork the repository.
+2.  Create a new branch (`git checkout -b feature/your-feature-name`).
+3.  Make your changes.
+4.  Commit your changes (`git commit -m 'feat: Add new feature'`).
+5.  Push to the branch (`git push origin feature/your-feature-name`).
+6.  Open a Pull Request.
+
+Please ensure your code adheres to the project's coding standards and includes appropriate tests.
+
+## License
+
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). 
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+* **Ayush Srivastava** - [GitHub Profile](https://github.com/CodeWithAyush2710)
+* **Project Link:** <https://github.com/CodeWithAyush2710/Synaptics-AI>
+
